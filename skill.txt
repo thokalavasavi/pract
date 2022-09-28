@@ -3,3 +3,5 @@ this is git
 git is normal
 environment
 is good
+good morning
+welcome
